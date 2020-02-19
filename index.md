@@ -9,9 +9,9 @@
       <p><b>专业:通信工程</b></p>
     </td>
     <td width="25%">
-      <img src="/IMG_3525.jpg" width="100%">
+      <img src="/IMG_3525.JPG" width="100%">
     </td>
   </tr>
 </table>  
-### 最新信息
+ 最新信息
   暂无
