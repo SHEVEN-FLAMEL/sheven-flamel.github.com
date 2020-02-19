@@ -11,7 +11,11 @@
     <td width="25%">
       <img src="/IMG_3525.JPG" width="100%">
     </td>
+    <h1>个人信息</h1>
+    <p><b>个人简介</b></p>
+    </td>
   </tr>
 </table>  
+
 ### 最新信息
  - 暂无
